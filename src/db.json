@@ -29,6 +29,24 @@
       "password": "abc@123",
       "email": "peter@test.com",
       "id": 5
+    },
+    {
+      "name": "kamlesh",
+      "password": "abc@123",
+      "email": "kamlesh@test.com",
+      "id": 6
+    },
+    {
+      "name": "mahesh",
+      "password": "abc@123",
+      "email": "mahesh@test.com",
+      "id": 7
+    },
+    {
+      "name": "anil",
+      "password": "abc@",
+      "email": "anil@test.com",
+      "id": 8
     }
   ]
 }
