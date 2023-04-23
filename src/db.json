@@ -47,6 +47,12 @@
       "password": "abc@",
       "email": "anil@test.com",
       "id": 8
+    },
+    {
+      "name": "ramesh sur",
+      "email": "ramesh@seller.com",
+      "password": "abc@123",
+      "id": 9
     }
   ]
 }
